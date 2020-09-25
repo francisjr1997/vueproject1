@@ -1,8 +1,8 @@
 <template>
-<v-layout>
+  <v-layout>
     <v-flex class="primary lighten-2 py-4 text-center white--text">
-
-     {{ new Date().getFullYear() }} — <strong>TestApp</strong>
+     &copy; {{ new Date().getFullYear() }} —
+      <strong>TestApp</strong>
     </v-flex>
-</v-layout>
+  </v-layout>
 </template>
