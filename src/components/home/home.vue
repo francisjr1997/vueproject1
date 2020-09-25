@@ -1,7 +1,7 @@
 <template>
 <v-layout wrap>
     <v-flex>
-        Home page
+        Home page of this website
     </v-flex>
 </v-layout>
 
