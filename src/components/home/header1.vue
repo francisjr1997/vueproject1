@@ -11,7 +11,7 @@
           <v-layout wrap>
             <v-flex xs11> Sucessfully logged out. </v-flex>
             <v-flex text-right>
-              <v-btn @click="closelogalert()" fab dark small color="primary">
+              <v-btn @click="closelogalert()" dark small color="primary">
                 <v-icon dark>mdi-close</v-icon>
               </v-btn>
             </v-flex>
